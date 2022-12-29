@@ -16,11 +16,12 @@ export default function Home() {
       <main className={styles.main}>
         <div>
           <p className={styles.description}>
-            Hi there, I'm Jon Blanco.
+            Hi there. I'm Jon Blanco.
           </p>
           <p className={styles.description}>
             This is my static site. You can find information here about... me!
           </p>
+
         </div>
       </main>
     </>
